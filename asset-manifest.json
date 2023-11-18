@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/scargg/my-TODO-App.git/static/css/main.651966d2.css",
+    "main.js": "/scargg/my-TODO-App.git/static/js/main.85ef88fc.js",
+    "static/media/tarea2-removebg-preview.png": "/scargg/my-TODO-App.git/static/media/tarea2-removebg-preview.201ff18cd3460d101ed8.png",
+    "static/media/orejas.png": "/scargg/my-TODO-App.git/static/media/orejas.daf36601d7f90aa2d3b3.png",
+    "static/media/check.svg": "/scargg/my-TODO-App.git/static/media/check.950233f54dcab662790fc9895708eca6.svg",
+    "static/media/delete.svg": "/scargg/my-TODO-App.git/static/media/delete.20217e6f2e67c4d2355cb31318249cd8.svg",
+    "static/media/no-check.svg": "/scargg/my-TODO-App.git/static/media/no-check.4925361801b6b9392223c2d4e79ddb5d.svg",
+    "index.html": "/scargg/my-TODO-App.git/index.html",
+    "main.651966d2.css.map": "/scargg/my-TODO-App.git/static/css/main.651966d2.css.map",
+    "main.85ef88fc.js.map": "/scargg/my-TODO-App.git/static/js/main.85ef88fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651966d2.css",
+    "static/js/main.85ef88fc.js"
+  ]
+}
