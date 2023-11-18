@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.9509867e.css",
-    "main.js": "./static/js/main.a4c20123.js",
+    "main.css": "./static/css/main.582446bf.css",
+    "main.js": "./static/js/main.37fb062b.js",
     "static/media/tarea2-removebg-preview.png": "./static/media/tarea2-removebg-preview.201ff18cd3460d101ed8.png",
     "static/media/orejas.png": "./static/media/orejas.daf36601d7f90aa2d3b3.png",
     "static/media/check.svg": "./static/media/check.950233f54dcab662790fc9895708eca6.svg",
     "static/media/delete.svg": "./static/media/delete.20217e6f2e67c4d2355cb31318249cd8.svg",
     "static/media/no-check.svg": "./static/media/no-check.4925361801b6b9392223c2d4e79ddb5d.svg",
     "index.html": "./index.html",
-    "main.9509867e.css.map": "./static/css/main.9509867e.css.map",
-    "main.a4c20123.js.map": "./static/js/main.a4c20123.js.map"
+    "main.582446bf.css.map": "./static/css/main.582446bf.css.map",
+    "main.37fb062b.js.map": "./static/js/main.37fb062b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9509867e.css",
-    "static/js/main.a4c20123.js"
+    "static/css/main.582446bf.css",
+    "static/js/main.37fb062b.js"
   ]
 }
