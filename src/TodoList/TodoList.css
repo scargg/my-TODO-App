@@ -1,0 +1,57 @@
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 350px;
+    list-style: none;
+    text-align: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+ul li {
+    display: flex;
+    align-items: center;
+}
+ul li button {
+    height: 40px;
+    min-width: 80%;
+    border: none;
+    border-radius: 30px;
+    margin: 10px 10px;
+    text-align: center;
+    padding: 5px;
+}
+.task-completed {
+    text-decoration: line-through;
+}
+button:hover {
+    background-color: rgb(192, 190, 190);
+}
+.icon-svg {
+    width: 30px;
+    height: 30px;
+}
+.icon-svg:hover {
+    transform: scale(1.2);
+}
+.icon-svg:active {
+    transform: scale(2);
+}
+.icon-check svg {
+   width: 100%;
+   height: 100%;
+
+}
+.icon-check svg:hover {
+    fill: green;
+}
+.icon-delete svg {
+    width: 100%;
+    height: 100%;
+}
+.icon-delete svg:hover {
+    fill: red;
+}
+.icon-delete:active {
+    fill: red;
+}

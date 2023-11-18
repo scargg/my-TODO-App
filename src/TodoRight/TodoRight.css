@@ -1,0 +1,40 @@
+.TodoRight {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 3fr;
+    background-color:  rgba(255, 255, 255, 0.582);
+    border-radius: 30px;
+    padding: 20px;
+    align-items: center;
+    height: 600px;
+}
+
+.TodoRight .TopRight{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    position: relative;
+}
+.TodoRight h2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+.TodoRight input {
+    border: none;
+    height: 40px;
+    width: 80%;
+    border-radius: 30px;
+    padding: 10px;
+    align-self: center;
+    background-color: rgba(255, 255, 255, 0.514);
+    position: relative;
+}
+.TodoRight .orejas{
+    width: 80px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -65px;
+    margin: auto;
+}

@@ -1,0 +1,43 @@
+.TodoLeft {
+    border-radius: 30px;
+    display: grid;
+    width: min-content;
+    justify-items: center;
+    padding: 20px;
+    height: 600px;
+    background-color:  rgba(255, 255, 255, 0.582);
+    position: relative;
+}
+.TodoLeft h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+.TodoLeft img {
+    width: 300px;
+    object-fit: cover;
+}
+.TodoLeft .TopLeft {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+.TodoLeft input {
+    border: none;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.589);
+    margin-bottom: 20px;
+    height: 40px;
+}
+.TodoLeft button {
+    align-self: self-start;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100px;
+    background-color: antiquewhite;
+}
+.TodoLeft button:hover {
+    background-color:rgb(218, 166, 99) ;
+    cursor: pointer;
+}
